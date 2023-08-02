@@ -27,7 +27,7 @@ python_process.stdout.on("data",(data) =>{
 
     }
 
-    res.json(obj);
+    res.json("hi");
 
 
     
